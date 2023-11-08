@@ -1,0 +1,9 @@
+Name: Variables
+Id: g=fc9ea22f285f4984ae832e8c41cb06d8
+Type: FolderType
+Children:
+- Name: MotorType
+  Id: g=f9f94cb5580f4f318b5a8617c41f3238
+  Type: BaseDataVariableType
+  DataType: UInt16
+  Value: 0

@@ -1,0 +1,20 @@
+Name: NetLogic
+Type: NetLogicCategoryFolder
+Children:
+- Name: MyDesignTimeNetLogic
+  Type: NetLogic
+  Children:
+  - Name: BehaviourStartPriority
+    Type: BehaviourStartPriorityVariableType
+    DataType: Byte
+    Value: 180
+  - Class: Method
+    Name: CreateSingleVariable
+  - Class: Method
+    Name: CreateMultipleVariable
+- Name: MyRuntimeNetLogic
+  Id: g=e11cf3930eb60410fd5a65081a9b392b
+  Type: NetLogic
+  Children:
+  - Class: Method
+    Name: CalSum

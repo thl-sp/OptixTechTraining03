@@ -1,0 +1,50 @@
+Name: Model
+Id: g=40ba5a9a7b4cc52edd21d0f48fb71b34
+Type: ModelCategoryFolder
+Children:
+- Name: MyVariable1
+  Id: g=3b8f578ab51a45e58f7d102ee022c5f5
+  Type: BaseDataVariableType
+  DataType: UInt16
+  Value: 0
+- Name: MyVariable2
+  Id: g=37700fa2dd884e258790c34cffca78f9
+  Type: BaseDataVariableType
+  DataType: UInt16
+  Value: 0
+- Name: MyVariable3
+  Id: g=386a06020fb74a80963ca214c0c35747
+  Type: BaseDataVariableType
+  DataType: UInt16
+  Value: 0
+- Name: MyVariable4
+  Id: g=83d4f495166840fdb4a8e17175805d7e
+  Type: BaseDataVariableType
+  DataType: UInt16
+  Value: 0
+- Name: MyVariable5
+  Id: g=ae624f37d0a0444ebf29854a8791c964
+  Type: BaseDataVariableType
+  DataType: UInt16
+  Value: 0
+- Name: MyVariable6
+  Id: g=910181c0d2b943d490c4f98eb36fe480
+  Type: BaseDataVariableType
+  DataType: UInt16
+  Value: 0
+- Name: MyVariable7
+  Id: g=9c955e4e03fd472b976de19d30f5c850
+  Type: BaseDataVariableType
+  DataType: UInt16
+  Value: 0
+- Name: MyVariable8
+  Id: g=7746d1f920794205a34913af05e2dec8
+  Type: BaseDataVariableType
+  DataType: UInt16
+  Value: 0
+- Name: MyVariable9
+  Id: g=e24dee09823d4577be58cfaf66637808
+  Type: BaseDataVariableType
+  DataType: UInt16
+  Value: 0
+- File: Variables/Variables.yaml
